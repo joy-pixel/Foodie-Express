@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "58455200415",
+    "project_id": "foodieexpress-559ff",
+    "storage_bucket": "foodieexpress-559ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58455200415:android:e68eaa5889718fafdd88aa",
+        "android_client_info": {
+          "package_name": "com.shashe.foodieexpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58455200415-arlt5vsq8gg0r0kuqj0hv28a1tlpb4ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2oKBrb7YvjOM3I9TUOR97UKWiTwW3gvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58455200415-arlt5vsq8gg0r0kuqj0hv28a1tlpb4ma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

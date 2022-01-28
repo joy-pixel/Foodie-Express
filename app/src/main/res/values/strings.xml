@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Foodie Express</string>
+    <string name="f_name">Enter Name</string>
+    <string name="title">Foodie Express</string>
+    <string name="email">Enter Email</string>
+    <string name="pass">Enter Password</string>
+    <string name="phone">Phone</string>
+    <string name="register">Register</string>
+    <string name="already">Already</string>
+    <string name="create">Create</string>
+    <string name="login">Login</string>
+    <string name="dont">Dont</string>
+
+</resources>
